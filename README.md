@@ -1,7 +1,7 @@
 # LittleLemon-By-NinadHapase
 
 
-![Logo]([https://github.com/ninad-hapase/LittleLemon1/blob/main/logo.png])
+![Logo]([https://github.com/ninad-hapase/LittleLemon/blob/main/Screenshot%202025-03-09%20175433.png)
 
 
 
@@ -58,7 +58,7 @@ The menu page dynamically displays all available dishes in the restaurant. Custo
 
 ### 1️⃣ Clone the Repository
 ```bash
-https://github.com/Vishakh17/Litllelemon
+(https://github.com/ninad-hapase/LittleLemon)
 ```
 
 ### 2️⃣ Create and Activate Virtual Environment
