@@ -1,7 +1,7 @@
 # LittleLemon-By-NinadHapase
 
 
-![Logo]([https://github.com/ninad-hapase/LittleLemon/blob/main/Screenshot%202025-03-09%20175433.png)
+![Logo](https://github.com/ninad-hapase/LittleLemon/blob/main/Screenshot%202025-03-09%20175433.png)
 
 
 
@@ -21,7 +21,7 @@ The About Us page provides insight into Little Lemon's history, mission, and val
 
 The menu page dynamically displays all available dishes in the restaurant. Customers can browse different categories of food and view detailed descriptions of each item.
 
-![Menu Page](https://github.com/ninad-hapase/LittleLemon1/blob/main/Screenshot%202025-03-09%20175433.png)
+![Menu Page](https://github.com/ninad-hapase/LittleLemon1/blob/main/Screenshot%202025-03-09%20173814.png)
 
 
 
